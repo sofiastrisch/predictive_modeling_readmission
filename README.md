@@ -85,7 +85,7 @@ weighted avg       0.82      0.82      0.82       240
 
 **ROC Curve:**  
 A visual representation of the trade-off between sensitivity and specificity.  
-See the generated file here → [visualizations/roc_curve.png](visualizations/roc_curve.png)
+See the generated file here → [visualization/roc_curve.png](visualization/roc_curve.png)
 
 ---
 
