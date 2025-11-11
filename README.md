@@ -2,14 +2,14 @@
 
 This project demonstrates a simple yet effective **predictive modeling workflow** to identify patients at risk of hospital readmission. It focuses on applied **health informatics and data science** skills, including clinical data preparation, logistic regression modeling, and evaluation using ROC-AUC metrics.
 
----
+
 
 ## Project Overview
 
 Hospital readmissions are costly and often preventable. By leveraging logistic regression, this project predicts the likelihood of readmission based on patient-level clinical and demographic data.  
 The model provides a foundation for understanding how predictive analytics can improve healthcare decision-making and patient outcomes.
 
----
+
 
 ## Project Structure
 
@@ -22,14 +22,14 @@ predictive_model_project/
 └── README.md                                                                   # Project documentation
 ```
 
----
+
 
 ## Objective
 
 To build and evaluate a **logistic regression model** that predicts whether a patient will be readmitted to the hospital based on key demographic and clinical features.  
 This type of predictive modeling supports hospital administrators and care teams in identifying high-risk patients for targeted interventions.
 
----
+
 
 ## Dependencies
 
@@ -39,7 +39,7 @@ Install the required Python packages before running the project:
 pip install pandas scikit-learn matplotlib
 ```
 
----
+
 
 ## How to Run the Project
 
@@ -61,7 +61,7 @@ pip install pandas scikit-learn matplotlib
    - Evaluate model performance (accuracy, AUC, and classification report)  
    - Display and save the ROC curve to `../visualizations/roc_curve.png`
 
----
+
 
 ## Example Output
 
@@ -87,7 +87,7 @@ weighted avg       0.82      0.82      0.82       240
 A visual representation of the trade-off between sensitivity and specificity.  
 See the generated file here → [visualization/roc_curve.png](visualization/roc_curve.png)
 
----
+
 
 ## Notes
 
@@ -95,7 +95,7 @@ See the generated file here → [visualization/roc_curve.png](visualization/roc_
 - The logistic regression model is intentionally simple and interpretable.  
 - This project showcases skills in **data preprocessing, feature encoding, supervised learning, and model evaluation**—all essential in health informatics and applied machine learning.
 
----
+
 
 ## Future Improvements
 
@@ -104,7 +104,7 @@ See the generated file here → [visualization/roc_curve.png](visualization/roc_
 - Explore feature importance for explainability  
 - Add socio-economic or behavioral data to enhance prediction accuracy  
 
----
 
-**Author:** 
-Sofia Strisch  
+
+## Author
+**Sofia Strisch**  
